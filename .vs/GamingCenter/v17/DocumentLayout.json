@@ -1,0 +1,665 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\membershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\membershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\pcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\pcdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\reservationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\dtos\\userupdatemembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\dtos\\userupdatemembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\configurations\\pcconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\configurations\\pcconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\configurations\\membershipconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\configurations\\membershipconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\persistance\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\repositories\\pcrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\repositories\\pcrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\repositories\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\repositories\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\endpoints\\reservationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\endpoints\\reservationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\endpoints\\userendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\endpoints\\pcendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\endpoints\\pcendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\presentation\\endpoints\\membershipendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\presentation\\endpoints\\membershipendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\services\\pcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\services\\pcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\application\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\application\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\domain\\interfaces\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\domain\\interfaces\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\domain\\interfaces\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\domain\\interfaces\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\programex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\programex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|c:\\users\\hasan tummalie\\source\\repos\\gamingcenter\\gamingcenter\\domain\\entities\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E9F32C-3ED9-45D3-9C1C-7C70E7DCC977}|GamingCenter\\GamingCenter.csproj|solutionrelative:gamingcenter\\domain\\entities\\pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 230,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\ReservationRequestDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\ReservationRequestDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\ReservationRequestDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\ReservationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:16:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:18:40.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PCDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\PCDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\PCDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\PCDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\PCDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:18:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembershipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\MembershipDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\MembershipDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\MembershipDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\MembershipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:18:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Program.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwBUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:16:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:50:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "GamingCenter\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:01:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\UserUpdateDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:33:40.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserUpdateMembershipDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\UserUpdateMembershipDto.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\DTOs\\UserUpdateMembershipDto.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\DTOs\\UserUpdateMembershipDto.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\DTOs\\UserUpdateMembershipDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:42:48.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Interfaces\\IMembershipService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IMembershipService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Interfaces\\IMembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:30:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Interfaces\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Interfaces\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:20:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:40:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:31:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:12:16.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:07:46.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PCConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\PCConfiguration.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Configurations\\PCConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\PCConfiguration.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Configurations\\PCConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:11:15.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MembershipConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\MembershipConfiguration.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Configurations\\MembershipConfiguration.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Configurations\\MembershipConfiguration.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Configurations\\MembershipConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:52:13.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Persistance\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:16:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:15:42.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:15:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PCRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\PCRepository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Repositories\\PCRepository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\PCRepository.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Repositories\\PCRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:14:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:13:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Services\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\LoggerService.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Services\\LoggerService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:12:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Data\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Data\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Data\\DatabaseInitializer.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Data\\DatabaseInitializer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:23:26.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:12:10.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:09:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PCEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\PCEndpoints.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Endpoints\\PCEndpoints.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\PCEndpoints.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Endpoints\\PCEndpoints.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:05:17.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MembershipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\MembershipRepository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Infrastructure\\Repositories\\MembershipRepository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Infrastructure\\Repositories\\MembershipRepository.cs",
+              "RelativeToolTip": "GamingCenter\\Infrastructure\\Repositories\\MembershipRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:39:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MembershipEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\MembershipEndpoints.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Endpoints\\MembershipEndpoints.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\MembershipEndpoints.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Endpoints\\MembershipEndpoints.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:08:46.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Services\\MembershipService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\MembershipService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Services\\MembershipService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:30:42.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservationEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\ReservationEndpoints.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Endpoints\\ReservationEndpoints.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\ReservationEndpoints.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Endpoints\\ReservationEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:45:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\UserEndpoints.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Presentation\\Endpoints\\UserEndpoints.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Presentation\\Endpoints\\UserEndpoints.cs",
+              "RelativeToolTip": "GamingCenter\\Presentation\\Endpoints\\UserEndpoints.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:13:31.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMembershipRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Interfaces\\IMembershipRepository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Domain\\Interfaces\\IMembershipRepository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Interfaces\\IMembershipRepository.cs",
+              "RelativeToolTip": "GamingCenter\\Domain\\Interfaces\\IMembershipRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:39:46.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PCService.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\PCService.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Application\\Services\\PCService.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Application\\Services\\PCService.cs",
+              "RelativeToolTip": "GamingCenter\\Application\\Services\\PCService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:55:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Interfaces\\IUserRespository.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Domain\\Interfaces\\IUserRespository.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Interfaces\\IUserRespository.cs",
+              "RelativeToolTip": "GamingCenter\\Domain\\Interfaces\\IUserRespository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T12:39:24.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProgramEx.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\ProgramEx.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\ProgramEx.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\ProgramEx.cs",
+              "RelativeToolTip": "GamingCenter\\ProgramEx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:12:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "GamingCenter\\Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:00:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PC.cs",
+              "DocumentMoniker": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\PC.cs",
+              "RelativeDocumentMoniker": "GamingCenter\\Domain\\Entities\\PC.cs",
+              "ToolTip": "C:\\Users\\Hasan Tummalie\\source\\repos\\GamingCenter\\GamingCenter\\Domain\\Entities\\PC.cs",
+              "RelativeToolTip": "GamingCenter\\Domain\\Entities\\PC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:01:26.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
